@@ -12,7 +12,7 @@ public class RemoveDuplicatesfromSortedList {
 	 
 	class Solution {
 	    public ListNode deleteDuplicates(ListNode head) {
-
+	    	
 	    	//head를 비교하기 위해 temp 변수에 담는다.
 	         ListNode temp = head;
 
